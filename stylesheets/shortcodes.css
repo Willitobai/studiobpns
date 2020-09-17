@@ -32,7 +32,7 @@
     font-weight: 600;
     display: inline-block;
     line-height: 1;
-    background: #eab702;
+    background: #1e46c7;
     color: #fff;
     cursor: pointer;    
     -webkit-transition: all ease .238s;
@@ -631,13 +631,13 @@
 
 .iconbox.circle.lagre:hover .box-header i {
     background-color: #333;
-    border: 4px solid #eab702;
+    border: 4px solid #111c5a;
 }
 
 
 /* Square */
 .iconbox.square .box-header i {
-    background-color: #eab702;
+    background-color: #111c5a;
     color: #fff;
     font-size: 28px;
 }
@@ -679,7 +679,7 @@
     height: 37px;
     line-height: 37px;
     border-radius: 3px;
-    background-color: #eab702;
+    background-color: #111c5a;
     color: #fff;
     padding: 0;
     text-align: center;
@@ -712,7 +712,7 @@
     display: inline-block;
     min-width: 100px;
     text-align: center;
-    background-color: #eab702;
+    background-color: #111c5a;
     color: #fff;
 }    
 
@@ -2282,7 +2282,7 @@ ul.flat-list li:before {
     top: 5px;
     width: 15px;
     height: 15px;
-    border: 2px solid #eab702;
+    border: 2px solid #111c5a;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     -ms-border-radius: 100%;
@@ -2297,7 +2297,7 @@ ul.flat-list li:after {
     top: 10px;
     width: 5px;
     height: 5px;
-    background-color: #eab702;
+    background-color: #111c5a;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     -ms-border-radius: 100%;
@@ -2326,7 +2326,7 @@ ul.flat-list.style2 li:after {
     content: "\f00c";
     width: 0;
     height: 0;
-    color: #eab702;
+    color: #111c5a;
     left: 3px;
     top: 1px;
     font-size: 9px;
@@ -2372,7 +2372,7 @@ ul.flat-list.use-icon li:after {
     position: absolute;
     left: 0;
     top: 0;
-    background: #f1c40f;
+    background: #111c5a;
     font-family: "fontAwesome";
     content: ""; 
     color: #323232; 
@@ -2394,7 +2394,7 @@ ul.flat-list.use-icon li:after {
 }
 
 .flat-accordion .toggle-title.active {
-    background: #f1c40f;
+    background: #111c5a;
 }
 
 .flat-accordion .toggle-title.active:before {

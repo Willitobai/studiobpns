@@ -698,7 +698,7 @@ padding:1px 4px 0px;
 text-shadow:none;
 margin:0px;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -714,7 +714,7 @@ padding:1px 4px 0px;
 text-shadow:none;
 margin:0px;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -739,7 +739,7 @@ color:rgb(52, 73, 94);
 text-decoration:none;
 background-color:transparent;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -753,7 +753,7 @@ text-decoration:none;
 background-color:rgb(52, 73, 94);
 padding:10px;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -767,7 +767,7 @@ text-decoration:none;
 background-color:transparent;
 padding:0px;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -781,7 +781,7 @@ text-decoration:none;
 background-color:transparent;
 padding:0px;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -795,7 +795,7 @@ text-decoration:none;
 background-color:rgb(227, 58, 12);
 padding:10px;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -808,7 +808,7 @@ color:rgb(243, 156, 18);
 text-decoration:none;
 background-color:transparent;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -822,7 +822,7 @@ text-decoration:none;
 background-color:rgb(243, 156, 18);
 padding:10px;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -845,7 +845,7 @@ color:rgb(255, 255, 255);
 text-decoration:none;
 background-color:transparent;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -859,7 +859,7 @@ text-decoration:none;
 background-color:transparent;
 padding:0px;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rrgb(10, 66, 218);
 border-style:none;
 }
 
@@ -873,7 +873,7 @@ text-decoration:none;
 background-color:transparent;
 padding:0px;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -888,7 +888,7 @@ background-color:transparent;
 padding:0px 0px 0px 0px;
 text-align:center;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -902,7 +902,7 @@ text-decoration:none;
 background-color:rgb(127, 140, 141);
 padding:10px;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -916,7 +916,7 @@ text-decoration:none;
 background-color:transparent;
 padding:0px;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rrgb(10, 66, 218);
 border-style:none;
 }
 
@@ -929,7 +929,7 @@ color:rgb(0, 0, 0);
 text-decoration:none;
 background-color:transparent;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -943,7 +943,7 @@ text-decoration:none;
 background-color:transparent;
 padding:0px;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -957,7 +957,7 @@ text-decoration:none;
 background-color:transparent;
 padding:0px;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -977,7 +977,7 @@ text-decoration:none;
 background-color:rgb(0, 0, 0);
 padding:10px 20px 15px;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -1006,7 +1006,7 @@ text-decoration:none;
 background-color:rgb(243, 156, 18);
 padding:10px;
 border-width:0px;
-border-color:rgb(255, 214, 88);
+border-color:rgb(10, 66, 218);
 border-style:none;
 }
 
@@ -2531,15 +2531,15 @@ zoom: 1;
 }
 
 .flat-button-slider.bg-button-slider-32bfc0 {
-	background-color: #eab702;
+	background-color: #111c5a;
 }
 
 .flat-button-slider.bg-button-slider-32bfc0:hover {
-	background-color: #eab702;
+	background-color: #111c5a;
 }
 
 .flat-button-slider:hover {
-	background-color: #eab702;
+	background-color: #111c5a;
 }
 
 .flat-button-slider:hover a {

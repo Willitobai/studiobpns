@@ -198,7 +198,7 @@ a {
 
 a:hover,
 a:focus {
-	color: #eab702;
+	color: #111c5a;
 	text-decoration: none;
 	outline: 0;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -297,7 +297,7 @@ input[type="url"]:focus,
 input[type="search"]:focus,
 input[type="tel"]:focus,
 input[type="color"]:focus {
-	border: 1px solid #eab702;
+	border: 1px solid #111c5a;
 	-webkit-box-shadow: none;
 	   -moz-box-shadow: none;
 			box-shadow: none;
@@ -388,7 +388,7 @@ input[type="color"],
     position: absolute;
     top: 22px;
     left: 7px;
-    color: #eab702;
+    color: ##111c5a;
     font-size: 49px;
     font-weight: 100;
     font-style: italic;
@@ -434,7 +434,7 @@ input[type="color"],
 	top: 18px;
 	font-family: FontAwesome;
 	content: "\f095";
-	color: #eab702;
+	color: #111c5a;
 }
 
 .flat-information > li.email:before {
@@ -449,7 +449,7 @@ input[type="color"],
 }
 
 .flat-information > li > a:hover {
-	color: #eab702;	
+	color: #111c5a;	
 }
 
 /* Social-links
@@ -542,7 +542,7 @@ input[type="color"],
 }
 
 .menu.menu-extra li a:hover {
-	color: #eab702;
+	color: #111c5a;
 }
 
 /* Navigation */
@@ -610,7 +610,7 @@ input[type="color"],
     left: 0;
     height: 3px;
     width: 100%;
-    background: #eab702;
+    background: #111c5a;
 }
 
 /* Right sub-menu */
@@ -678,7 +678,7 @@ input[type="color"],
 }
 
 #mainnav ul.submenu > li > a:hover {
-	background-color: #eab702;
+	background-color: #111c5a;
 	color: #fff;
 }
 
@@ -688,7 +688,7 @@ input[type="color"],
 
 #mainnav > ul > li > a:hover,
 #mainnav > ul > li.home > a {
-   color: #eab702 ;
+   color: #111c5a ;
    position: relative;
 }
 
